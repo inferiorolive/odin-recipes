@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mama's la jiang</title>
+</head>
+<body>
+    <h1>How to make la jiang (Taiwanese spicy soy sauce)</h1>
+    
+    <img src="../img/xxx.jpg">
+
+    <h2>Recipe description</h2>
+    
+    <p>In this recipe you'll learn how to make a creamy mushroom pasta. The dish is typically made with a flat pasta such as liguine or parpadelle, but you can use whatever pasta you have.</p>
+    
+    <h3>Ingredients</h3>
+    <p>Makes a small jarful</p>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+
+    <h3>Steps</h3>
+
+    <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ol>
+    <p>
+        <a href="../index.html">Home</a>
+    </p>
+</body>
+</html>
