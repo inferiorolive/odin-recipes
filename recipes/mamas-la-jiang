@@ -6,41 +6,31 @@
     <title>Mama's la jiang</title>
 </head>
 <body>
-    <h1>How to make la jiang (Taiwanese spicy soy sauce)</h1>
+    <h1>How to make La Jiang (Taiwanese spicy soy sauce)</h1>
     
-    <img src="../img/xxx.jpg">
+    <img src="../img/mamas-la-jiang.jpeg" alt="Spicy dipping sauce" height="400" width="280">
 
     <h2>Recipe description</h2>
     
-    <p>In this recipe you'll learn how to make a creamy mushroom pasta. The dish is typically made with a flat pasta such as liguine or parpadelle, but you can use whatever pasta you have.</p>
+    <p>This condiment, with its fiery kick of bird's eye chillies harmoniously melded with the savoury depth of soy sauce, captured my taste buds from the very first dip. Its simplicity belies its versatility, elevating everything from plain rice to succulent fried delicacies with its bold flavours.</p>
     
     <h3>Ingredients</h3>
     <p>Makes a small jarful</p>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Bird's eye chillies, thinly sliced  </li>
+        <li>Light soy sauce</li>
+        <li>Sesame oil</li>
+        <li>1 clove of garlic</li>
+        <li>Light chinese vinegar</li>
     </ul>
 
     <h3>Steps</h3>
 
     <ol>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Begin by thinly slicing the bird's eye chillies (chilli padi) and placing them in a small serving dish or ramekin.</li>
+        <li>Pour light soy sauce over the sliced chillies, ensuring they are well-coated. The amount of soy sauce can be adjusted according to your preference for saltiness and the desired consistency of the sauce.</li>
+        <li>Give the condiment a gentle stir to incorporate all the ingredients evenly.</li>
+        <li>Serve alongside your favourite dishes as a dipping sauce or condiment. Enjoy the spicy, savoury goodness with every bite!</li>
     </ol>
     <p>
         <a href="../index.html">Home</a>
